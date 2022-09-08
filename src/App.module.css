@@ -1,0 +1,6 @@
+.cards-box{
+    width:100%;
+    display: flex;
+    justify-content:space-between;
+    padding: 3vh 5vw;
+}
